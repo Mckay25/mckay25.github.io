@@ -1,11 +1,16 @@
 body
 {
   font-family:Helvetica;
-  background-color:red;
+  background-color:grey;
 }
 h1
 {
   font-size:3cm;
+  background-color:#222;
+  color:whitesmoke;
+  text-align:center;
+  padding:2.5%;
+  
 }
 
 p
