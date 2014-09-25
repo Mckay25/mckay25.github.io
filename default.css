@@ -1,0 +1,15 @@
+body
+{
+  font-family:Helvetica;
+  background-color:pink;
+}
+h1
+{
+  font-size:3cm;
+}
+
+p
+{
+  color:blue;
+  font-size:12px;
+}
