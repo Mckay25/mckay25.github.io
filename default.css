@@ -1,7 +1,12 @@
 
 Body
 {
-color:black;
+color:red;
 font-family:Helvetica;
 Background:orange;
+}
+
+h1{ 
+Background:black;
+text-align:center;
 }
