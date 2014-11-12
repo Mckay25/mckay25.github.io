@@ -18,14 +18,3 @@ img{
 float:center;
 }
 
-/* Bar */ 
-nav{
-  background-color:black;
-}
-.icon{
-  text-decoration:none;
-  color:orange;
-  font-family:Helvetica;
-  margin:5px;
-  font-size:20px;
-}
